@@ -1,4 +1,4 @@
-# nutx-app
+# first-app
 
 ## Build Setup
 
